@@ -1,0 +1,11 @@
+data,produto,quantidade,valor_unitario,vendedor
+2026-06-01,Pizza Margherita,12,45.00,Carlos
+2026-06-01,Pizza Vegana,5,55.00,Ana
+2026-06-02,Pizza Calabresa,8,45.00,Carlos
+2026-06-02,Pizza Quatro Queijos,10,50.00,Ana
+2026-06-03,Pizza Margherita,15,45.00,Ana
+2026-06-03,Pizza Vegana,3,55.00,Carlos
+2026-06-04,Pizza Portuguesa,7,50.00,Carlos
+2026-06-04,Pizza Calabresa,11,45.00,Ana
+2026-06-05,Pizza Margherita,9,45.00,Carlos
+2026-06-05,Pizza Frango Catupiry,14,50.00,Ana
